@@ -42,4 +42,3 @@ Feel free to be creative and make any technical or functionality choices that ha
 
 ### Step 5: Send over your project
 Send us a link to code with instructions to run and evaluate.
-```
