@@ -35,10 +35,10 @@ We've included two data files to work from:
 ### Step 2: Evaluate the project
 Let us know your estimate of when you'll be ready with a submission.
 
-To set expectations so that this exercise does not feel unbounded, with a complete focused block of time, we don't expect a level of effort beyond an evening or two. But we also understand you may not have a single block of time that would make it completeable in a single session.  
+To set expectations so that this exercise does not feel unbounded, with a complete focused block of time, we don't expect a level of effort beyond an evening or two or about 4 hours total. But we also understand you may not have a single block of time that would make it completeable in a single session. Beyond a functioning solution, you may document additional changes you would make given more time.
 
 ### Step 4: Start coding
-Feel free to be creative and make any technical or functionality choices that haven't been specified. You can use whatever language or packages you would like, but you should understand and be able to answer questions about anything you do choose to use.
+Feel free to be creative and make any technical or functionality choices that haven't been specified. You can use whatever language or packages you would like, but you should understand and be able to answer questions about anything you do choose to use. Please however do use a language in common use.  For reference, at Teachable, we code in Ruby, Python, Elixir, Javascript/Typescript.
 
 ### Step 5: Send over your project
 Send us a link to code with instructions to run and evaluate.
